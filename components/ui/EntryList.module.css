@@ -1,0 +1,9 @@
+/*En los modulos no se puede usar el selector de tag (p, div, body ...)*/
+/**En los modulos solo se pueden utilizar classes o selector de id */
+
+.dragging {
+  background-color: rgb(255 255 255 / 0.1);
+  border-radius: 2rem;
+  border: 1px dashed white;
+
+}
